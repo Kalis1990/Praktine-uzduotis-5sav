@@ -28,13 +28,11 @@ body{
     margin-right: auto;
     display:block;
     position: relative;
-    border: 2px solid black;
     overflow: hidden;  
 }
 .form{
 
     width: 100%;
-    border: 2px solid black;
 }
 input{
     padding: 20px 40px;
